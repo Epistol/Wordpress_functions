@@ -14,8 +14,11 @@ function b64ize_image($url_img){
 To put inside a loop : 
 
 ```php
-    $img = array();
+$img = array();
+   
+if(get_the_post_thumbnail_url() != ''){
 	$img[] =  b64ize_image(get_the_post_thumbnail_url());
+}
 ```
 
 
