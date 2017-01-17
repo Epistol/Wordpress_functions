@@ -1,5 +1,7 @@
 # Wordpress
 
+
+
 ## Images from article to base64 encoded string : 
 ```php
 function b64ize_image($url_img){
