@@ -1,6 +1,9 @@
 # Wordpress
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
+- [Wordpress](#)
+	- [Images from article to base64 encoded string :](#)
 
 ## Images from article to base64 encoded string : 
 ```php
